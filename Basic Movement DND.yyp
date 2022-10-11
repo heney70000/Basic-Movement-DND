@@ -1,6 +1,8 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_desert","path":"rooms/rm_desert/rm_desert.yy",},"order":1,},
+    {"id":{"name":"spr_cowegg","path":"sprites/spr_cowegg/spr_cowegg.yy",},"order":0,},
+    {"id":{"name":"obj_cowegg","path":"objects/obj_cowegg/obj_cowegg.yy",},"order":0,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -17,7 +19,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_desert","path":"rooms/rm_desert/rm_desert.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
