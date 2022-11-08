@@ -33,5 +33,6 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 326341CB
 	/// @DnDParent : 4D8EB1DD
-	image_speed = 1;
+	/// @DnDArgument : "speed" "1.5"
+	image_speed = 1.5;
 }
